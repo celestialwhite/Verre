@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VERRE V1 - DESIGN SYSTEM TOKENS -->
+    <!-- Emerald Theme -->
+    <color name="verre_emerald_background_deep">#07130D</color>
+    <color name="verre_emerald_background_glow">#0A2E1F</color>
+    <color name="verre_emerald_accent">#2E8B57</color>
+    <color name="verre_emerald_accent_secondary">#A8E6CF</color>
+    <color name="verre_emerald_text_secondary">#B8CFC2</color>
+    <color name="verre_emerald_sent_bubble">#1E4D33</color>
+    <color name="verre_emerald_received_bubble">#1A2B23</color>
+
+    <!-- Electric Cyan Theme -->
+    <color name="verre_cyan_background_deep">#050A2E</color>
+    <color name="verre_cyan_background_glow">#0A1A5E</color>
+    <color name="verre_cyan_accent">#00E5FF</color>
+    <color name="verre_cyan_accent_secondary">#4D7CFE</color>
+    <color name="verre_cyan_text_secondary">#A9B8FF</color>
+    <color name="verre_cyan_sent_bubble">#0D2B8F</color>
+    <color name="verre_cyan_received_bubble">#141C3A</color>
+
+    <!-- Shared -->
+    <color name="verre_text_primary">#FFFFFF</color>
+    <color name="verre_danger">#FF5C5C</color>
+    <color name="verre_success">#34D399</color>
+    <color name="verre_glass_white_10">#1AFFFFFF</color>
+    <color name="verre_glass_white_14">#24FFFFFF</color>
+    <color name="verre_glass_white_18">#2EFFFFFF</color>
+    <color name="verre_solid_fallback">#121212</color>
+</resources>
